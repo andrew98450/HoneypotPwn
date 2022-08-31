@@ -1,2 +1,2 @@
-/bin/service.sh && /bin/bash
+/bin/services.sh && /bin/bash
 tail -F /dev/null
