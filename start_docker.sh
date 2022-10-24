@@ -1,0 +1,1 @@
+sudo docker run --name honeypotpwn -p 22:22 -p 23:23 -p 25:25 -p 80:80 -p 111:111 -p 139:139 -p 445:445 -p 3306:3306 -p 5432:5432 -p 5900:5900 honeypotpwn
